@@ -14,17 +14,6 @@ This is a car rental project developed for the graduation Project. It is built u
 -   Admin Panel for managing cars, bookings, and users
 
 
-## Interfaces:
-
-- User
-
-![Alt text](public/user_interface.gif)
-
-- Admin
-
-![Alt text](public/admin_interface.gif)
-
-
 ## Usage
 
 -   Register a user account or login with existing credentials.
