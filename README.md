@@ -26,7 +26,3 @@ This is a car rental project developed for the graduation Project. It is built u
 
 We welcome contributions to enhance the project! If you find any issues or have suggestions, please open an issue or submit a pull request.
 
-## Authors
-
--   Mohamed Galdi (contact.galdi@gmail.com)
--   Mohamed Chtitihi (mohamedchtitihi@gmail.com)
