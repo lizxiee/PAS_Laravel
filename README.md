@@ -1,42 +1,39 @@
 # Website Rental Mobil
 
 # Rental Car
-Selamat datang di proyek Website Rental Mobil! Aplikasi ini menyediakan platform bagi pengguna untuk menjelajahi, memesan, dan mengelola rental mobil. Website ini dirancang untuk menawarkan pengalaman yang mudah dan ramah pengguna bagi pelanggan dan administrator.
+Selamat datang di Website Rental Mobil! Platform ini menyediakan cara mudah dan efisien bagi pengguna untuk menyewa mobil dan bagi administrator untuk mengelola operasi penyewaan. README ini akan memandu Anda melalui fitur-fitur yang tersedia baik di bagian pengguna maupun admin dari website ini.
 
 ## Fitur
 
 ### Fitur Pengguna
-- Jelajahi Mobil : Lihat berbagai mobil yang tersedia untuk disewa, lengkap dengan detail seperti merek, model, tahun, harga, dan ketersediaan.
-- Cari dan Filter : Cari mobil dengan mudah berdasarkan kriteria seperti lokasi, tanggal, jenis mobil, dan rentang harga.
-- Pemesanan : Buat reservasi untuk mobil yang dipilih dan terima konfirmasi pemesanan.
-- Akun Pengguna : Buat dan kelola akun pribadi untuk melihat riwayat pemesanan, mengelola reservasi, dan memperbarui informasi pribadi.
-- Integrasi Pembayaran : Integrasi gateway pembayaran yang aman untuk transaksi online.
+- Home : Pada home terdapat penjelasan sedikit tentang website rental car
+- Cars : Fitur cars ini sangat memudahkan user untuk mencari mobil yang diinginkan dengan cara menginputkan brand, model, max dan min price, lalu di search.
+- Location : Location berfungsi untuk menjelaskan bahwa tempat rental kami berlokasikan strategis dan untuk mempermudah userpun kami memebrikan map sebagai petunjuk lokasinya.
+- Contact us : Apabila user ingin mengajukan sesuatu kepada kami, dapat mengubungi melalui fitur ini.
 
 ### Fitur Admin
-- Dasboard : Tinjauan aktivitas rental, termasuk pemesanan saat ini, mobil yang tersedia, dan statistik pengguna.
-- Manajemen Mobil : Tambah, edit, dan hapus listing mobil, termasuk mengunggah gambar dan mengatur harga.
-- Manajemen Pemesanan : Lihat dan kelola semua pemesanan, termasuk menyetujui, menolak, dan membatalkan reservasi.
-- Manajemen Pengguna : Lihat dan kelola akun pengguna, termasuk menangani pertanyaan dan masalah pengguna.
-- Pelaporan : Hasilkan laporan tentang aktivitas rental, keuangan, dan perilaku pengguna.
+- Dasboard : Pada halaman dashboard admin terdapat total clients yang sudah ada, Available cars, Active Reservations, Active Insurances.
+- Cars : Halaman ini berisikan mobil mobil yang sudah terdaftar
+- Insurances : Insurances digunakan untuk melihat berapa banyak mobil yang terdapat asuransi, dan tidak mendapatkan asuransi
+- User : Pada halaman user ini admin dapat melihat siapa saja yang sudah terdaftar, dan dapat melihat clients juga.
 
+- 
 ## Penggunaan
 
 ### Untuk Pengguna
 1. Daftar/Masuk : Buat akun atau masuk untuk mengakses fitur pemesanan.
-2. Cari Mobil : Gunakan kolom pencarian dan filter untuk menemukan mobil yang sesuai dengan kebutuhan Anda.
-3. Buat Pemesanan : Pilih mobil, tentukan periode sewa, dan konfirmasi pemesanan Anda.
-4. Kelola Pemesanan : Lihat dan kelola pemesanan Anda yang sedang berjalan maupun yang telah selesai melalui dashboard akun Anda.
+2. Cari Mobil : Gunakan fitur cars yang sudah tersedia, user bisa menginputkan mobil yang diinginkan, sesuai dengan brand, model, dan harganya juga menyesuaikan user, jika sudah lakukan search.
+3. Buat Pemesanan : Setelah memilih mobil, lalu user bisa langsung menyewa.
 
 ### Untuk Admin
-1. Masuk : Akses dashboard admin dengan masuk menggunakan kredensial admin.
-2. Kelola Mobil : Tambah mobil baru ke inventaris, perbarui listing yang ada, atau hapus mobil yang tidak lagi tersedia.
-3. Kelola Pemesanan : Setujui atau tolak permintaan pemesanan, dan kelola status sewa yang sedang berjalan.
-4. Lihat Laporan : Hasilkan dan lihat laporan untuk memantau kinerja dan penggunaan layanan rental.
-
+1. Masuk : Akses dashboard admin dengan masuk menggunakan akun admin.
+2. Kelola Mobil : Admin dapat melihat mobil yang ada.
+3. Kelola Insurances : Dapat meliht jumlah mbol yang mendapatkan asuransi atau tidak.
+4. Lihat users : Untuk di admin ini dapat melihat akun yang sudah terdaftar.
 
 ## Kontak
 
-Untuk pertanyaan atau masalah, silakan hubungi kami di support@rentalmobilwebsite.com.
+Untuk pertanyaan atau masalah, silakan hubungi kami di support@rentalcar.com
 
 ---
 
