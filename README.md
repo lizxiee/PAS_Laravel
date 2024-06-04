@@ -13,7 +13,7 @@ Selamat datang di proyek Website Rental Mobil! Aplikasi ini menyediakan platform
 - Integrasi Pembayaran : Integrasi gateway pembayaran yang aman untuk transaksi online.
 
 ### Fitur Admin
-- Daboard : Tinjauan aktivitas rental, termasuk pemesanan saat ini, mobil yang tersedia, dan statistik pengguna.
+- Dasboard : Tinjauan aktivitas rental, termasuk pemesanan saat ini, mobil yang tersedia, dan statistik pengguna.
 - Manajemen Mobil : Tambah, edit, dan hapus listing mobil, termasuk mengunggah gambar dan mengatur harga.
 - Manajemen Pemesanan : Lihat dan kelola semua pemesanan, termasuk menyetujui, menolak, dan membatalkan reservasi.
 - Manajemen Pengguna : Lihat dan kelola akun pengguna, termasuk menangani pertanyaan dan masalah pengguna.
